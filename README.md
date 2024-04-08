@@ -1,1 +1,1 @@
-# oice-and-Image-Controlled-Inventory-Manager
+# Voice-and-Image-Controlled-Inventory-Manager
