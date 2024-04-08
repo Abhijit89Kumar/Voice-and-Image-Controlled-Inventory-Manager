@@ -1,0 +1,405 @@
+2024-04-01 01:51:31,389 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 01:51:49,740 - INFO - view_inventory - Inventory found for 'Knorr Soup2': {'object_id': 1071111250, 'object_name': 'Knorr Soup2', 'items_quantity': 300}
+2024-04-01 02:02:01,843 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:02:01,844 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:02:01,844 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:02:01,844 - ERROR - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:02:01,844 - ERROR - view_inventory - Unread result found
+2024-04-01 02:02:36,502 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:02:36,503 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:02:36,503 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:02:36,503 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:02:36,504 - ERROR - view_inventory - Unread result found
+2024-04-01 02:02:49,801 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:02:49,801 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:02:49,802 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:02:49,802 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:02:49,802 - ERROR - view_inventory - Unread result found
+2024-04-01 02:03:31,694 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:03:37,886 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:03:37,887 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:03:37,887 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:03:37,887 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:03:37,887 - ERROR - view_inventory - Unread result found
+2024-04-01 02:05:52,724 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:06:16,718 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:06:16,728 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:06:16,729 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:06:16,732 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: -260, Change type: update
+2024-04-01 02:06:23,939 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:06:23,940 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:06:23,940 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:06:23,940 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:06:23,941 - ERROR - view_inventory - Unread result found
+2024-04-01 02:06:58,781 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:07:07,068 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:07:07,078 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:07:07,079 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:07:07,082 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:07:11,465 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:07:11,466 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:07:11,466 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:07:11,466 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:07:11,467 - ERROR - view_inventory - Unread result found
+2024-04-01 02:07:30,666 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:07:30,676 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:07:30,676 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:07:30,677 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:07:30,678 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:07:53,550 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:08:32,456 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:08:32,457 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:08:32,457 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:08:32,458 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:09:30,584 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:10:05,501 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:10:05,507 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:10:05,507 - ERROR - find_object_id - Unread result found
+2024-04-01 02:10:05,507 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:10:05,508 - ERROR - add_in_object_mapping - Object 'marie gold biscuits', Error : Unread result found
+2024-04-01 02:15:33,338 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:15:33,346 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:15:33,346 - ERROR - find_object_id - Unread result found
+2024-04-01 02:15:33,346 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:15:33,346 - ERROR - add_in_object_mapping - Object 'marie gold biscuits', Error : Unread result found
+2024-04-01 02:16:33,091 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:16:33,100 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:16:33,101 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:16:33,102 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:16:54,489 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:16:54,502 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:16:54,503 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:16:54,504 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:17:44,695 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:17:44,710 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:17:44,711 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:17:44,712 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:18:27,104 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:18:27,105 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:18:27,106 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:18:27,106 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:18:40,845 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:18:53,539 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:19:04,912 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:19:18,896 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:19:18,909 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:19:18,910 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:19:18,914 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 200, Change type: update
+2024-04-01 02:19:18,915 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:19:24,015 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:19:24,025 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:19:24,025 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:19:24,028 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 300, Change type: update
+2024-04-01 02:19:24,029 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:21:51,261 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 1, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 10}
+2024-04-01 02:21:51,274 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:21:51,275 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:21:51,278 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 400, Change type: update
+2024-04-01 02:21:51,279 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:28:40,387 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 400}
+2024-04-01 02:28:48,624 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:28:55,557 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:28:55,558 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:28:55,562 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 500, Change type: update
+2024-04-01 02:29:02,890 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:02,891 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:02,895 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:29:06,126 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:06,127 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:06,128 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:29:06,129 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:29:25,638 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:29:25,639 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:25,640 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 100}
+2024-04-01 02:29:25,640 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:25,641 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:25,643 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 80, Change type: update
+2024-04-01 02:29:25,645 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:29:25,645 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:25,646 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:25,649 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 02:29:25,649 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:29:45,588 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:29:45,588 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:45,589 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 100}
+2024-04-01 02:29:45,589 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:45,590 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:45,593 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 80, Change type: update
+2024-04-01 02:29:45,596 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:29:45,597 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:29:57,178 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:29:57,179 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:57,179 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 80}
+2024-04-01 02:29:57,180 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:29:57,180 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:29:57,183 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 60, Change type: update
+2024-04-01 02:29:57,185 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:29:57,186 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:30:20,369 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:30:20,370 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:20,370 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 60}
+2024-04-01 02:30:20,371 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:30:20,371 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:20,373 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 40, Change type: update
+2024-04-01 02:30:20,375 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:30:20,375 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:30:21,863 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:30:21,864 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:21,864 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 40}
+2024-04-01 02:30:21,864 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:30:21,865 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:21,867 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 20, Change type: update
+2024-04-01 02:30:21,869 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:30:21,870 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:30:23,395 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:30:23,396 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:23,397 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 20}
+2024-04-01 02:30:23,397 - INFO - wrapper - Function call: inventory_change
+2024-04-01 02:30:23,397 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:23,400 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 0, Change type: update
+2024-04-01 02:30:23,402 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 02:30:23,403 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 02:30:24,427 - INFO - wrapper - Function call: add_transaction
+2024-04-01 02:30:24,428 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 02:30:24,428 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 0}
+2024-04-01 02:30:24,428 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 02:30:24,429 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:32:05,794 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:32:49,090 - INFO - wrapper - Function call: <module>
+2024-04-01 10:32:49,101 - INFO - add_in_object_mapping - Object 'real juice' added to object_mapping table with ID: 1141099101
+2024-04-01 10:32:49,102 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:33:13,072 - INFO - wrapper - Function call: <module>
+2024-04-01 10:33:13,073 - INFO - find_object_id - Object 'Marie God Biscuits' not found in object_mapping table.
+2024-04-01 10:33:13,074 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:33:53,632 - INFO - wrapper - Function call: <module>
+2024-04-01 10:33:53,632 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:33:53,633 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:34:11,344 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:35:58,914 - INFO - view_objects - List of objects retrieved from object_mapping table
+2024-04-01 10:35:58,915 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:36:27,326 - INFO - view_objects - List of objects retrieved from object_mapping table
+2024-04-01 10:36:27,327 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:36:38,199 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:36:38,200 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:36:38,201 - INFO - view_inventory - Inventory found for 'Marie Gold Biscuits': {'object_id': 7797116115, 'object_name': 'Marie Gold Biscuits', 'items_quantity': 0}
+2024-04-01 10:36:38,201 - WARNING - add_transaction - Insufficient inventory for 'Marie Gold Biscuits'. Transaction not added.
+2024-04-01 10:36:38,202 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:36:58,748 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:36:58,749 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:36:58,750 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:36:58,750 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:36:58,755 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 20, Change type: update
+2024-04-01 10:36:58,758 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:36:58,759 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:38:04,819 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:38:04,820 - INFO - find_object_id - Object 'Tata Salt' not found in object_mapping table.
+2024-04-01 10:38:04,820 - ERROR - add_transaction - Object 'Tata Salt' not found. Transaction not added.
+2024-04-01 10:38:04,820 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:39:11,535 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:39:11,536 - INFO - find_object_id - Object 'Tata Salt' not found in object_mapping table.
+2024-04-01 10:39:11,536 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:39:11,538 - INFO - add_in_object_mapping - Object 'tata salt' added to object_mapping table with ID: 1169708116
+2024-04-01 10:39:11,541 - INFO - inventory_change - Inventory updated for 'Tata Salt', Quantity: 20, Change type: update
+2024-04-01 10:39:11,541 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:39:11,541 - INFO - find_object_id - Object ID found for 'Tata Salt'
+2024-04-01 10:39:11,543 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:39:11,543 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:39:27,623 - INFO - view_inventory - Inventory found for 'Tata Salt': {'object_id': 1169708116, 'object_name': 'Tata Salt', 'items_quantity': 20}
+2024-04-01 10:39:27,629 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:39:27,629 - INFO - find_object_id - Object ID found for 'Tata Salt'
+2024-04-01 10:39:27,632 - INFO - inventory_change - Inventory updated for 'Tata Salt', Quantity: 0, Change type: update
+2024-04-01 10:39:27,632 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:39:27,632 - INFO - find_object_id - Object ID found for 'Tata Salt'
+2024-04-01 10:39:27,634 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:39:27,634 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:39:45,020 - INFO - view_inventory - No inventory found for 'Tea'
+2024-04-01 10:39:45,021 - ERROR - add_transaction - Error: No inventory found for 'Tea'
+2024-04-01 10:39:45,022 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:41:17,570 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:41:17,571 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:48:19,059 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:48:19,060 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:48:30,496 - INFO - view_inventory - No inventory found for 'Tea'
+2024-04-01 10:48:30,496 - ERROR - add_transaction - Error: No inventory found for 'Tea'
+2024-04-01 10:48:30,497 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:48:30,497 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:48:40,669 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:48:40,670 - INFO - find_object_id - Object 'Tea' not found in object_mapping table.
+2024-04-01 10:48:40,670 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:49:21,732 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:49:21,733 - INFO - find_object_id - Object 'Tea' not found in object_mapping table.
+2024-04-01 10:49:21,733 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:49:21,736 - INFO - add_in_object_mapping - Object 'tea' added to object_mapping table with ID: 1161019725
+2024-04-01 10:49:21,738 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 20, Change type: update
+2024-04-01 10:49:21,738 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:49:21,739 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:49:21,739 - ERROR - add_transaction - Not all parameters were used in the SQL statement
+2024-04-01 10:49:21,740 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:49:21,740 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:49:50,713 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:49:50,713 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:49:50,716 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 40, Change type: update
+2024-04-01 10:49:50,716 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:49:50,716 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:49:50,716 - ERROR - add_transaction - Not all parameters were used in the SQL statement
+2024-04-01 10:49:50,717 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:49:50,717 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:50:30,603 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:50:30,604 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:50:30,606 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 60, Change type: update
+2024-04-01 10:50:30,606 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:50:30,606 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:50:30,608 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:50:30,609 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:50:30,609 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:51:02,912 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:51:02,913 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:51:02,916 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 80, Change type: update
+2024-04-01 10:51:02,916 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:51:02,917 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:51:02,918 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:51:02,919 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:51:32,339 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:51:32,340 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:51:32,343 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 100, Change type: update
+2024-04-01 10:51:32,343 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:51:32,344 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:51:32,346 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:51:32,347 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:52:54,970 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:52:54,970 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:52:54,974 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 120, Change type: update
+2024-04-01 10:52:54,974 - INFO - wrapper - Function call: add_transaction
+2024-04-01 10:52:54,975 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 10:52:54,976 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 10:52:54,977 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 10:53:15,536 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:53:26,694 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:53:26,695 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:53:26,697 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 100, Change type: set
+2024-04-01 10:53:38,204 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:53:38,204 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:53:38,207 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 200, Change type: update
+2024-04-01 10:53:38,208 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:53:44,523 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:53:44,524 - INFO - find_object_id - Object ID found for 'Marie Gold Biscuits'
+2024-04-01 10:53:44,526 - INFO - inventory_change - Inventory updated for 'Marie Gold Biscuits', Quantity: 300, Change type: update
+2024-04-01 10:53:44,527 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:53:59,404 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:53:59,405 - INFO - find_object_id - Object 'Milton Bottle' not found in object_mapping table.
+2024-04-01 10:53:59,405 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:53:59,409 - INFO - add_in_object_mapping - Object 'milton bottle' added to object_mapping table with ID: 1091008101
+2024-04-01 10:53:59,411 - INFO - inventory_change - Inventory updated for 'Milton Bottle', Quantity: 100, Change type: update
+2024-04-01 10:53:59,411 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:54:23,413 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:54:23,413 - INFO - find_object_id - Object ID found for 'Milton Bottle'
+2024-04-01 10:54:23,416 - INFO - inventory_change - Inventory updated for 'Milton Bottle', Quantity: 200, Change type: update
+2024-04-01 10:54:23,416 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 10:54:29,711 - INFO - wrapper - Function call: inventory_change
+2024-04-01 10:54:29,711 - INFO - find_object_id - Object ID found for 'Milton Bottle'
+2024-04-01 10:54:29,714 - INFO - inventory_change - Inventory updated for 'Milton Bottle', Quantity: 100, Change type: set
+2024-04-01 10:54:29,714 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:01,636 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:01,715 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:01,732 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 140, Change type: update
+2024-04-01 14:36:01,732 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:01,732 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:01,741 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 14:36:01,741 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:23,706 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:23,707 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:23,714 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 160, Change type: update
+2024-04-01 14:36:23,714 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:23,715 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:23,717 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 14:36:23,718 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:30,274 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 160}
+2024-04-01 14:36:30,288 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:30,289 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:30,295 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 140, Change type: update
+2024-04-01 14:36:30,296 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:30,297 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:30,299 - ERROR - add_transaction - 1062 (23000): Duplicate entry '8410185148' for key 'transactions.PRIMARY'
+2024-04-01 14:36:30,300 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:32,786 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 140}
+2024-04-01 14:36:32,791 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:32,792 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:32,795 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 120, Change type: update
+2024-04-01 14:36:32,796 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:32,796 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:32,798 - ERROR - add_transaction - 1062 (23000): Duplicate entry '8410185150' for key 'transactions.PRIMARY'
+2024-04-01 14:36:32,798 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:33,103 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 120}
+2024-04-01 14:36:33,113 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:33,114 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,117 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 100, Change type: update
+2024-04-01 14:36:33,117 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:33,117 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,120 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 14:36:33,121 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:33,411 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 100}
+2024-04-01 14:36:33,420 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:33,421 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,425 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 80, Change type: update
+2024-04-01 14:36:33,426 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:33,427 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,428 - ERROR - add_transaction - 1062 (23000): Duplicate entry '8410185151' for key 'transactions.PRIMARY'
+2024-04-01 14:36:33,429 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:33,871 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 80}
+2024-04-01 14:36:33,884 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:33,885 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,888 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 60, Change type: update
+2024-04-01 14:36:33,889 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:33,889 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:33,891 - ERROR - add_transaction - 1062 (23000): Duplicate entry '8410185151' for key 'transactions.PRIMARY'
+2024-04-01 14:36:33,892 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:34,258 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 60}
+2024-04-01 14:36:34,267 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:34,267 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:34,272 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 40, Change type: update
+2024-04-01 14:36:34,272 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:34,273 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:34,275 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 14:36:34,275 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:34,616 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 40}
+2024-04-01 14:36:34,626 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:34,628 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:34,631 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 20, Change type: update
+2024-04-01 14:36:34,631 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:34,632 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:34,634 - ERROR - add_transaction - 1062 (23000): Duplicate entry '8410185152' for key 'transactions.PRIMARY'
+2024-04-01 14:36:34,635 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:35,072 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 20}
+2024-04-01 14:36:35,083 - INFO - wrapper - Function call: inventory_change
+2024-04-01 14:36:35,084 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:35,089 - INFO - inventory_change - Inventory updated for 'Tea', Quantity: 0, Change type: update
+2024-04-01 14:36:35,089 - INFO - wrapper - Function call: add_transaction
+2024-04-01 14:36:35,090 - INFO - find_object_id - Object ID found for 'Tea'
+2024-04-01 14:36:35,094 - INFO - add_transaction - Transaction added successfully.
+2024-04-01 14:36:35,095 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:35,481 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:35,481 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:35,482 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:35,808 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:35,808 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:35,809 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:36,148 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:36,148 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:36,149 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:36,561 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:36,561 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:36,562 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:36,908 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:36,908 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:36,909 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:37,277 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:37,278 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:37,278 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:37,658 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:37,658 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:37,659 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:38,163 - INFO - view_inventory - Inventory found for 'Tea': {'object_id': 1161019725, 'object_name': 'Tea', 'items_quantity': 0}
+2024-04-01 14:36:38,163 - WARNING - add_transaction - Insufficient inventory for 'Tea'. Transaction not added.
+2024-04-01 14:36:38,163 - INFO - view_inventory - Entire inventory retrieved
+2024-04-01 14:36:55,686 - INFO - view_last_n_days_transactions - Last 7 days transactions retrieved.
+2024-04-01 14:36:55,687 - INFO - view_inventory - Entire inventory retrieved
